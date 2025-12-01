@@ -2,4 +2,5 @@ google-play-scraper
 pandas
 nltk
 scikit-learn
+psycopg2-binary
 
